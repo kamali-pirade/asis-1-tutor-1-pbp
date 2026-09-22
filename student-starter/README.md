@@ -25,5 +25,3 @@ python manage.py runserver
 ```
 
 Di Windows, aktifkan environment sesuai shell yang dipakai. Setelah mengerjakan TODO, buka `http://localhost:8000/` lalu jalankan `python manage.py test`. Tes starter memang gagal sebelum bagian terkait dilengkapi. Periksa juga halaman pada lebar desktop dan ponsel; tes CSS hanya memeriksa struktur aturan, sedangkan kerapian visual tetap perlu dilihat langsung.
-
-Jangan ubah tes untuk menyembunyikan kegagalan. Kuis ini tidak meminta akun GitHub, deployment PWS, commit, atau push.

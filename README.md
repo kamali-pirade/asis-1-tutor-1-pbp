@@ -4,5 +4,3 @@ Versi ini dibatasi pada **Tutorial 00, Tutorial 01, dan Tugas 01**. Kuis membuat
 
 - [`student-starter/`](student-starter/) — kerangka kuis dengan delapan TODO dan 13 tes.
 - [`instructor-solution/`](instructor-solution/) — implementasi lengkap, rubrik, dan catatan validasi.
-
-Bagikan hanya folder atau ZIP `student-starter` kepada mahasiswa. Kedua folder adalah proyek Django mandiri; jalankan perintah dari dalam folder masing-masing. Kuis ini belum menilai model, ModelForm, CRUD, atau JSON.

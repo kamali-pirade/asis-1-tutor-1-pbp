@@ -1,0 +1,3 @@
+# TODO [1]: Ignore local virtual environments, environment-variable files,
+# the SQLite database, and Python cache files from Tutorial 00.
+.DS_Store
